@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"m":"GestionaleUniversita","l":"it.corso"}];updateSearchResults();
